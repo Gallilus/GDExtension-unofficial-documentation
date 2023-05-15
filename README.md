@@ -1,4 +1,4 @@
-# gdextension-unoficial-documentation
+# GDExtension-unofficial-documentation
 
 https://docs.godotengine.org/en/latest/contributing/documentation/index.html#writing-documentation
 https://docs.godotengine.org/en/latest/contributing/documentation/contributing_to_the_documentation.html
