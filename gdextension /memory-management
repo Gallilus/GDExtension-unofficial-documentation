@@ -5,7 +5,7 @@ All header repositorys implement there own version of Ref<T>.
 
 .. tabs::
 
- .. code-tab:: godotengine / godot-cpp
+ .. code-tab:: godot-cpp
 
     var node = Node3D.new()
     node.call("rotate", Vector3(1.0, 0.0, 0.0), 1.571)
