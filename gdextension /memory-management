@@ -1,0 +1,16 @@
+# Memory management
+## Ref<T>
+All header repositorys implement there own version of Ref<T>.
+
+
+.. tabs::
+
+ .. code-tab:: godotengine / godot-cpp
+
+    var node = Node3D.new()
+    node.call("rotate", Vector3(1.0, 0.0, 0.0), 1.571)
+
+ .. code-tab:: csharp
+
+    var node = new Node3D();
+    node.Call(Node3D.MethodName.Rotate, new Vector3(1f, 0f, 0f), 1.571f);
